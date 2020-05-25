@@ -78,6 +78,11 @@
   </url>
   
   <url>
+    <loc>https://jeremykao.com/skills/elixir/</loc>
+    <lastmod>2018-12-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://jeremykao.com/projects/hello-world/</loc>
     <lastmod>2018-12-31T00:00:00+00:00</lastmod>
   </url>
@@ -88,8 +93,28 @@
   </url>
   
   <url>
+    <loc>https://jeremykao.com/categories/project/</loc>
+    <lastmod>2018-12-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://jeremykao.com/projects/</loc>
     <lastmod>2018-12-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jeremykao.com/skills/</loc>
+    <lastmod>2018-12-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jeremykao.com/skills/javascript/</loc>
+    <lastmod>2018-09-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jeremykao.com/projects/swag/</loc>
+    <lastmod>2018-09-30T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -144,10 +169,6 @@
   
   <url>
     <loc>https://jeremykao.com/about/</loc>
-  </url>
-  
-  <url>
-    <loc>https://jeremykao.com/projects/swag/</loc>
   </url>
   
 </urlset>

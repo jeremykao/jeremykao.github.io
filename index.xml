@@ -52,6 +52,15 @@ This is text with inline math $\sum_{n=1}^{\infty}2^{-n}=1$ This is text with in
     </item>
     
     <item>
+      <title>Swiggity swag</title>
+      <link>https://jeremykao.com/projects/swag/</link>
+      <pubDate>Sun, 30 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://jeremykao.com/projects/swag/</guid>
+      <description>Hello world</description>
+    </item>
+    
+    <item>
       <title>Theme Demo</title>
       <link>https://jeremykao.com/posts/theme-demo/</link>
       <pubDate>Sun, 08 Jan 2017 00:00:00 +0000</pubDate>
@@ -117,18 +126,9 @@ Follow the following steps:
       
       <guid>https://jeremykao.com/about/</guid>
       <description>Hey! Thanks for visiting my personal website.
-I&#39;m a full stack web developer in the San Francisco Bay Area. My area of expertise is building web applications. Although I can work up and down the stack, UI/UX is where I prefer to spend most of my time.
+I&#39;m a full stack web developer in the San Francisco Bay Area. My area of expertise is building web applications. Although I can work up and down the stack, UI/UX/Product is where I prefer to spend most of my time.
 I eventually want to start a business and perhaps own a restaurant or bakery.
-In my free time, you can usually find me exploring nature, learning something new, or cooking a delicious meal.</description>
-    </item>
-    
-    <item>
-      <title>Swiggity swag</title>
-      <link>https://jeremykao.com/projects/swag/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://jeremykao.com/projects/swag/</guid>
-      <description>Hello world</description>
+In my free time, you can usually find me exploring nature, learning something new, expressing myself via some art form, or cooking a delicious meal.</description>
     </item>
     
   </channel>
