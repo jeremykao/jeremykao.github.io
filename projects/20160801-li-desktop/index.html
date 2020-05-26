@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <meta name="author" content="Jeremy Kao">
+    <meta name="description" content="The Personal Website of Jeremy Kao">
+    <meta name="keywords" content="blog,developer,personal,fullstack,maker,coder">
+
+    <meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="New Desktop LinkedIn Feed w/ Ember.js"/>
+<meta name="twitter:description" content="Helped build the new desktop Feed experience on Ember.js"/>
+
+    <meta property="og:title" content="New Desktop LinkedIn Feed w/ Ember.js" />
+<meta property="og:description" content="Helped build the new desktop Feed experience on Ember.js" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://jeremykao.com/projects/20160801-li-desktop/" />
+<meta property="article:published_time" content="2016-08-01T00:00:00+00:00" />
+<meta property="article:modified_time" content="2016-08-01T00:00:00+00:00" />
+
+
+    
+      <base href="https://jeremykao.com/projects/20160801-li-desktop/">
+    
+    <title>
+  New Desktop LinkedIn Feed w/ Ember.js · Jeremy Kao
+</title>
+
+    
+      <link rel="canonical" href="https://jeremykao.com/projects/20160801-li-desktop/">
+    
+
+    <link href="https://fonts.googleapis.com/css?family=Lato:400,700%7CMerriweather:300,700%7CSource+Code+Pro:400,700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.11.2/css/all.css" integrity="sha384-KA6wR/X5RY4zFAHpv/CnoG2UW1uogYfdnP67Uv7eULvTveboZJg0qUpmJZb5VqzN" crossorigin="anonymous" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css" integrity="sha256-l85OmPOjvil/SOvVt3HnSSjzF1TUMyT9eV0c2BzEGzU=" crossorigin="anonymous" />
+
+    
+      
+      
+      <link rel="stylesheet" href="https://jeremykao.com/css/coder.min.261e8263bb1e44aeb625868b815ba5aa2162a7b40c006b88db9d55f157089b1b.css" integrity="sha256-Jh6CY7seRK62JYaLgVulqiFip7QMAGuI251V8VcImxs=" crossorigin="anonymous" media="screen" />
+    
+
+    
+
+    
+      
+        
+        
+        <link rel="stylesheet" href="https://jeremykao.com/css/coder-dark.min.83a2010dac9f59f943b3004cd6c4f230507ad036da635d3621401d42ec4e2835.css" integrity="sha256-g6IBDayfWflDswBM1sTyMFB60DbaY102IUAdQuxOKDU=" crossorigin="anonymous" media="screen" />
+      
+    
+
+    
+      <link rel="stylesheet" href="https://jeremykao.com/static/styles/custom-styles.scss" />
+    
+
+    
+
+    
+
+    <link rel="icon" type="image/png" href="https://jeremykao.com/images/favicon-32x32.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="https://jeremykao.com/images/favicon-16x16.png" sizes="16x16">
+
+    <meta name="generator" content="Hugo 0.62.1" />
+  </head>
+
+  
+  
+    
+  
+  <body class="colorscheme-dark">
+    <main class="wrapper">
+      <nav class="navigation">
+  <section class="container">
+    <a class="navigation-title" href="https://jeremykao.com/">
+      Jeremy Kao
+    </a>
+    
+    <input type="checkbox" id="menu-toggle" />
+    <label class="menu-button float-right" for="menu-toggle"><i class="fas fa-bars"></i></label>
+    <ul class="navigation-list">
+      
+        
+          <li class="navigation-item">
+            <a class="navigation-link" href="https://jeremykao.com/about/">About</a>
+          </li>
+        
+          <li class="navigation-item">
+            <a class="navigation-link" href="https://jeremykao.com/posts/">Blog</a>
+          </li>
+        
+          <li class="navigation-item">
+            <a class="navigation-link" href="https://jeremykao.com/projects/">Projects</a>
+          </li>
+        
+      
+      
+    </ul>
+    
+  </section>
+</nav>
+
+
+      <div class="content">
+        
+  <section class="container post">
+    <article>
+      <header>
+        <div class="post-title">
+          <h1 class="title">New Desktop LinkedIn Feed w/ Ember.js</h1>
+        </div>
+        <div class="post-meta">
+          <div class="date">
+            <span class="posted-on">
+              <i class="fas fa-calendar"></i>
+              <time datetime='2016-08-01T00:00:00Z'>
+                August 1, 2016
+              </time>
+            </span>
+            <span class="reading-time">
+              <i class="fas fa-clock"></i>
+              1-minute read
+            </span>
+          </div>
+          <div class="categories">
+  <i class="fas fa-folder"></i>
+    <a href="https://jeremykao.com/categories/project/">project</a></div>
+
+          
+        </div>
+      </header>
+
+      <div>
+        <p>After the launch of the native/mobile web applications, we had to build the desktop experience on Ember.js. Prior to this, every LinkedIn product was its own separate project. Some were server-side rendered, some used Backbone-Marionette, some used a custom built JS framework. Now, all LinkedIn consumer products were to be within the same Ember.js application, served as a single page app.</p>
+<p>Since we had a mobile-web application, the strategy was to &ldquo;extend&rdquo; this for the desktop application. Desktop would ideally be mobile-web + left/right sidebars. In practice, this was a bit more challenging, as desktop had additional interactions (e.g. hover states) and preferred inline experiences rather than new views (e.g. open a modal rather than get taken to a new page) that would occur on mobile-web. I also worked a little bit on the APi, which was a nice Java 8 Play app that powered our new native mobile apps.</p>
+<p>A couple of interesting things I built:</p>
+<ul>
+<li>Left hand bar / identity module</li>
+<li>Hovercards for companies/profiles across the app</li>
+</ul>
+
+      </div>
+    </article>
+
+    
+  </section>
+
+      </div>
+
+      <footer class="footer">
+  <section class="container">
+    
+    
+      
+        © 2011 - 2020
+      
+       Jeremy Kao 
+    
+    
+    
+  </section>
+</footer>
+
+    </main>
+
+    
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+	ga('create', 'UA-48919506-3', 'auto');
+	
+	ga('send', 'pageview');
+}
+</script>
+
+
+    
+
+  </body>
+
+</html>

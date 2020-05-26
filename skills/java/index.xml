@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Java on Jeremy Kao</title>
+    <link>https://jeremykao.com/skills/java/</link>
+    <description>Recent content in Java on Jeremy Kao</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 01 Aug 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://jeremykao.com/skills/java/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>New Desktop LinkedIn Feed w/ Ember.js</title>
+      <link>https://jeremykao.com/projects/20160801-li-desktop/</link>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://jeremykao.com/projects/20160801-li-desktop/</guid>
+      <description>After the launch of the native/mobile web applications, we had to build the desktop experience on Ember.js. Prior to this, every LinkedIn product was its own separate project. Some were server-side rendered, some used Backbone-Marionette, some used a custom built JS framework. Now, all LinkedIn consumer products were to be within the same Ember.js application, served as a single page app.
+Since we had a mobile-web application, the strategy was to &amp;ldquo;extend&amp;rdquo; this for the desktop application.</description>
+    </item>
+    
+  </channel>
+</rss>

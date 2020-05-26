@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ember on Jeremy Kao</title>
+    <link>https://jeremykao.com/skills/ember/</link>
+    <description>Recent content in Ember on Jeremy Kao</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 01 May 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://jeremykao.com/skills/ember/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>LinkedIn Messaging on Mobile-Web</title>
+      <link>https://jeremykao.com/projects/20160501-li-mobile-web/</link>
+      <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://jeremykao.com/projects/20160501-li-mobile-web/</guid>
+      <description>During my time maintaining the LinkedIn Desktop feed, I was &amp;ldquo;loaned&amp;rdquo; to the Messaging team to help build the new messaging experience on mobile web. I joined 2 other folks to help work on this product (Sponsored InMail, Share as Message from Feed, etc.).
+This was a fast-paced environment, and I learned a lot about Ember 2.0. Developing for mobile-web was also quite interesting for me because performance is limited (network latency, slower cpu) and layout is a lot more variable (lots more variation in screen sizes) than desktop.</description>
+    </item>
+    
+  </channel>
+</rss>

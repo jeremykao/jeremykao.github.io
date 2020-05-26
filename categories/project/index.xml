@@ -6,27 +6,101 @@
     <description>Recent content in project on Jeremy Kao</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 31 Dec 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://jeremykao.com/categories/project/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Hello World!</title>
-      <link>https://jeremykao.com/projects/hello-world/</link>
-      <pubDate>Mon, 31 Dec 2018 00:00:00 +0000</pubDate>
+      <title>Various Products at Abnormal Security</title>
+      <link>https://jeremykao.com/projects/20190101-abx/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://jeremykao.com/projects/hello-world/</guid>
-      <description></description>
+      <guid>https://jeremykao.com/projects/20190101-abx/</guid>
+      <description>I&#39;ve worked on quite a few projects here since November 2018. Back then, we had no paying customers yet, but now we&#39;ve got a couple, and I have a lot more coworkers (yay!). I won&#39;t really go into details, but you can find more information on our website: https://www.abnormalsecurity.com. Or you can contact me if you&#39;d like to know more.</description>
     </item>
     
     <item>
-      <title>Swiggity swag</title>
-      <link>https://jeremykao.com/projects/swag/</link>
-      <pubDate>Sun, 30 Sep 2018 00:00:00 +0000</pubDate>
+      <title>Various Desktop Feed Features</title>
+      <link>https://jeremykao.com/projects/20180101-li-desktop-features/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://jeremykao.com/projects/swag/</guid>
-      <description>Hello world</description>
+      <guid>https://jeremykao.com/projects/20180101-li-desktop-features/</guid>
+      <description>I worked on the Desktop feed for quite a while. Performance, i18n, and accessiblity were always a work-in-progress for a product that receives millions of views a day across the world in 20+ languages/locales.
+Here are some of the interesting projects I worked on:
+New way of rendering feed updates Developer velocity was also a focus for a period of time. Now that we had the feed served across 4 platforms (android, ios, mobile-web, desktop), it was always a huge effort to create a new feed update.</description>
+    </item>
+    
+    <item>
+      <title>Deprecating the old Desktop Feed and a 13&#43; year old monorepo</title>
+      <link>https://jeremykao.com/projects/20170101-li-deprecate-hp/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://jeremykao.com/projects/20170101-li-deprecate-hp/</guid>
+      <description>With the launch of the new Desktop experience, efforts to remove the old desktop were put in place. Due to the slow ramp of the desktop experience (performance in various countries/markets was a challenge), the old desktop feed still lived around while most folks used the new desktop experience.
+Eventually though, it came time to deprecate this service, so I worked a lot on analyzing traffic to make sure nothing was redirecting to the old homepage.</description>
+    </item>
+    
+    <item>
+      <title>New Desktop LinkedIn Feed w/ Ember.js</title>
+      <link>https://jeremykao.com/projects/20160801-li-desktop/</link>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://jeremykao.com/projects/20160801-li-desktop/</guid>
+      <description>After the launch of the native/mobile web applications, we had to build the desktop experience on Ember.js. Prior to this, every LinkedIn product was its own separate project. Some were server-side rendered, some used Backbone-Marionette, some used a custom built JS framework. Now, all LinkedIn consumer products were to be within the same Ember.js application, served as a single page app.
+Since we had a mobile-web application, the strategy was to &amp;ldquo;extend&amp;rdquo; this for the desktop application.</description>
+    </item>
+    
+    <item>
+      <title>LinkedIn Messaging on Mobile-Web</title>
+      <link>https://jeremykao.com/projects/20160501-li-mobile-web/</link>
+      <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://jeremykao.com/projects/20160501-li-mobile-web/</guid>
+      <description>During my time maintaining the LinkedIn Desktop feed, I was &amp;ldquo;loaned&amp;rdquo; to the Messaging team to help build the new messaging experience on mobile web. I joined 2 other folks to help work on this product (Sponsored InMail, Share as Message from Feed, etc.).
+This was a fast-paced environment, and I learned a lot about Ember 2.0. Developing for mobile-web was also quite interesting for me because performance is limited (network latency, slower cpu) and layout is a lot more variable (lots more variation in screen sizes) than desktop.</description>
+    </item>
+    
+    <item>
+      <title>Threaded Likes/Comments on Desktop LinkedIn Feed</title>
+      <link>https://jeremykao.com/projects/20150801-li-spindle/</link>
+      <pubDate>Sat, 01 Aug 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://jeremykao.com/projects/20150801-li-spindle/</guid>
+      <description>While I was maintaining Linkedin&#39;s desktop feed experience, I also helped add threaded likes and comments to the desktop feed. Other folks were adding it to the new native Android/iOS applications and the new mobile-web experience.
+Threaded likes and comments allowed users to like a comment and comment on a comment and surfaced various new updates related to those actions.
+This was a fun project because it required a lot of thought into making a comment more like an update, which itself was already complex due to its recursive nature (updates can contain other updates when someone likes/comments/reshares an update).</description>
+    </item>
+    
+    <item>
+      <title>LinkedIn Feed/Homepage Maintainence</title>
+      <link>https://jeremykao.com/projects/20150501-li-hp/</link>
+      <pubDate>Fri, 01 May 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://jeremykao.com/projects/20150501-li-hp/</guid>
+      <description>Starting mid 2015, LinkedIn embarked on an ambitious project to rewrite a good portion of their consumer experiences. The previous Mobile experience relied a bit on webviews backed by a nodejs service, so the Android and iOS apps were both rewritten in the platform native languages: Swift and Java. There was also not a good mobile-web application, so a mobile-web Ember.js application was also written.
+On a team of 3 Frontend developers for Feed, 2 worked on this new mobile-web experience, while I handled maintaining the desktop LinkedIn feed experience.</description>
+    </item>
+    
+    <item>
+      <title>LinkedIn Messaging Prototype</title>
+      <link>https://jeremykao.com/projects/20140701-li-msg/</link>
+      <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://jeremykao.com/projects/20140701-li-msg/</guid>
+      <description>Prior to 2015, LinkedIn had an email-like messaging system, where each message received was its own distinct item in the inbox.
+There was a new initiative to change this to be threaded, more like a chat system. As part of my intern project, I worked on writing a new web application that would support this. This was also one of the first experiments of Ember.js at LinkedIn.
+This project was initially written in Backbone.</description>
+    </item>
+    
+    <item>
+      <title>TurboTax Support Site</title>
+      <link>https://jeremykao.com/projects/20130701-turbotax-support/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://jeremykao.com/projects/20130701-turbotax-support/</guid>
+      <description>As a summer intern for Intuit&#39;s TurboTax in San Diego, I was tasked with helping build out the new support website. This project was particularly interesting because some members on my team were migrating a bunch of the old app to the cloud, and I was building a new app with Angular.js.
+I learned quite a bit of Angular 1.0, which I thought was AWESOME, until I got to $scopes. Very soon, Angular 1.</description>
     </item>
     
   </channel>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Scala on Jeremy Kao</title>
+    <link>https://jeremykao.com/skills/scala/</link>
+    <description>Recent content in Scala on Jeremy Kao</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 01 Aug 2015 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://jeremykao.com/skills/scala/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Threaded Likes/Comments on Desktop LinkedIn Feed</title>
+      <link>https://jeremykao.com/projects/20150801-li-spindle/</link>
+      <pubDate>Sat, 01 Aug 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://jeremykao.com/projects/20150801-li-spindle/</guid>
+      <description>While I was maintaining Linkedin&#39;s desktop feed experience, I also helped add threaded likes and comments to the desktop feed. Other folks were adding it to the new native Android/iOS applications and the new mobile-web experience.
+Threaded likes and comments allowed users to like a comment and comment on a comment and surfaced various new updates related to those actions.
+This was a fun project because it required a lot of thought into making a comment more like an update, which itself was already complex due to its recursive nature (updates can contain other updates when someone likes/comments/reshares an update).</description>
+    </item>
+    
+    <item>
+      <title>LinkedIn Feed/Homepage Maintainence</title>
+      <link>https://jeremykao.com/projects/20150501-li-hp/</link>
+      <pubDate>Fri, 01 May 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://jeremykao.com/projects/20150501-li-hp/</guid>
+      <description>Starting mid 2015, LinkedIn embarked on an ambitious project to rewrite a good portion of their consumer experiences. The previous Mobile experience relied a bit on webviews backed by a nodejs service, so the Android and iOS apps were both rewritten in the platform native languages: Swift and Java. There was also not a good mobile-web application, so a mobile-web Ember.js application was also written.
+On a team of 3 Frontend developers for Feed, 2 worked on this new mobile-web experience, while I handled maintaining the desktop LinkedIn feed experience.</description>
+    </item>
+    
+  </channel>
+</rss>

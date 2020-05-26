@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DevOps on Jeremy Kao</title>
+    <link>https://jeremykao.com/skills/devops/</link>
+    <description>Recent content in DevOps on Jeremy Kao</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 01 Jul 2017 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://jeremykao.com/skills/devops/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Deprecating the old Desktop Feed and a 13&#43; year old monorepo</title>
+      <link>https://jeremykao.com/projects/20170101-li-deprecate-hp/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://jeremykao.com/projects/20170101-li-deprecate-hp/</guid>
+      <description>With the launch of the new Desktop experience, efforts to remove the old desktop were put in place. Due to the slow ramp of the desktop experience (performance in various countries/markets was a challenge), the old desktop feed still lived around while most folks used the new desktop experience.
+Eventually though, it came time to deprecate this service, so I worked a lot on analyzing traffic to make sure nothing was redirecting to the old homepage.</description>
+    </item>
+    
+  </channel>
+</rss>

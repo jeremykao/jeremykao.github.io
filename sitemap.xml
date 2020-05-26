@@ -68,6 +68,51 @@
   </url>
   
   <url>
+    <loc>https://jeremykao.com/skills/django/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jeremykao.com/skills/javascript/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jeremykao.com/categories/project/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jeremykao.com/projects/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jeremykao.com/skills/python/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jeremykao.com/skills/react/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jeremykao.com/skills/sass/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jeremykao.com/skills/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jeremykao.com/projects/20190101-abx/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://jeremykao.com/categories/blog/</loc>
     <lastmod>2018-12-31T00:00:00+00:00</lastmod>
   </url>
@@ -78,43 +123,33 @@
   </url>
   
   <url>
-    <loc>https://jeremykao.com/skills/elixir/</loc>
-    <lastmod>2018-12-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://jeremykao.com/projects/hello-world/</loc>
-    <lastmod>2018-12-31T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://jeremykao.com/tags/i18n/</loc>
     <lastmod>2018-12-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jeremykao.com/categories/project/</loc>
-    <lastmod>2018-12-31T00:00:00+00:00</lastmod>
+    <loc>https://jeremykao.com/skills/ember.js/</loc>
+    <lastmod>2018-08-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jeremykao.com/projects/</loc>
-    <lastmod>2018-12-31T00:00:00+00:00</lastmod>
+    <loc>https://jeremykao.com/projects/20180101-li-desktop-features/</loc>
+    <lastmod>2018-08-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jeremykao.com/skills/</loc>
-    <lastmod>2018-12-31T00:00:00+00:00</lastmod>
+    <loc>https://jeremykao.com/skills/web-performance/</loc>
+    <lastmod>2018-08-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jeremykao.com/skills/javascript/</loc>
-    <lastmod>2018-09-30T00:00:00+00:00</lastmod>
+    <loc>https://jeremykao.com/projects/20170101-li-deprecate-hp/</loc>
+    <lastmod>2017-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jeremykao.com/projects/swag/</loc>
-    <lastmod>2018-09-30T00:00:00+00:00</lastmod>
+    <loc>https://jeremykao.com/skills/devops/</loc>
+    <lastmod>2017-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -123,8 +158,53 @@
   </url>
   
   <url>
+    <loc>https://jeremykao.com/skills/java/</loc>
+    <lastmod>2016-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jeremykao.com/projects/20160801-li-desktop/</loc>
+    <lastmod>2016-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jeremykao.com/skills/play/</loc>
+    <lastmod>2016-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jeremykao.com/skills/ember/</loc>
+    <lastmod>2016-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jeremykao.com/projects/20160501-li-mobile-web/</loc>
+    <lastmod>2016-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jeremykao.com/skills/scala/</loc>
+    <lastmod>2015-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jeremykao.com/projects/20150801-li-spindle/</loc>
+    <lastmod>2015-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jeremykao.com/projects/20150501-li-hp/</loc>
+    <lastmod>2015-05-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://jeremykao.com/posts/creating-a-new-theme/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jeremykao.com/projects/20140701-li-msg/</loc>
+    <lastmod>2014-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -165,6 +245,16 @@
   <url>
     <loc>https://jeremykao.com/posts/migrate-from-jekyll/</loc>
     <lastmod>2014-03-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jeremykao.com/skills/angular.js/</loc>
+    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jeremykao.com/projects/20130701-turbotax-support/</loc>
+    <lastmod>2013-07-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>

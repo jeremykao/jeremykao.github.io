@@ -30,24 +30,6 @@
     </item>
     
     <item>
-      <title>Hello World!</title>
-      <link>https://jeremykao.com/projects/hello-world/</link>
-      <pubDate>Mon, 31 Dec 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://jeremykao.com/projects/hello-world/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Swiggity swag</title>
-      <link>https://jeremykao.com/projects/swag/</link>
-      <pubDate>Sun, 30 Sep 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://jeremykao.com/projects/swag/</guid>
-      <description>Hello world</description>
-    </item>
-    
-    <item>
       <title>Getting Started with Hugo</title>
       <link>https://jeremykao.com/posts/hugoisforlovers/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>

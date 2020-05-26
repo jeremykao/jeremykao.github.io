@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sass on Jeremy Kao</title>
+    <link>https://jeremykao.com/skills/sass/</link>
+    <description>Recent content in Sass on Jeremy Kao</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://jeremykao.com/skills/sass/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Various Products at Abnormal Security</title>
+      <link>https://jeremykao.com/projects/20190101-abx/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://jeremykao.com/projects/20190101-abx/</guid>
+      <description>I&#39;ve worked on quite a few projects here since November 2018. Back then, we had no paying customers yet, but now we&#39;ve got a couple, and I have a lot more coworkers (yay!). I won&#39;t really go into details, but you can find more information on our website: https://www.abnormalsecurity.com. Or you can contact me if you&#39;d like to know more.</description>
+    </item>
+    
+    <item>
+      <title>Various Desktop Feed Features</title>
+      <link>https://jeremykao.com/projects/20180101-li-desktop-features/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://jeremykao.com/projects/20180101-li-desktop-features/</guid>
+      <description>I worked on the Desktop feed for quite a while. Performance, i18n, and accessiblity were always a work-in-progress for a product that receives millions of views a day across the world in 20+ languages/locales.
+Here are some of the interesting projects I worked on:
+New way of rendering feed updates Developer velocity was also a focus for a period of time. Now that we had the feed served across 4 platforms (android, ios, mobile-web, desktop), it was always a huge effort to create a new feed update.</description>
+    </item>
+    
+    <item>
+      <title>Threaded Likes/Comments on Desktop LinkedIn Feed</title>
+      <link>https://jeremykao.com/projects/20150801-li-spindle/</link>
+      <pubDate>Sat, 01 Aug 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://jeremykao.com/projects/20150801-li-spindle/</guid>
+      <description>While I was maintaining Linkedin&#39;s desktop feed experience, I also helped add threaded likes and comments to the desktop feed. Other folks were adding it to the new native Android/iOS applications and the new mobile-web experience.
+Threaded likes and comments allowed users to like a comment and comment on a comment and surfaced various new updates related to those actions.
+This was a fun project because it required a lot of thought into making a comment more like an update, which itself was already complex due to its recursive nature (updates can contain other updates when someone likes/comments/reshares an update).</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ember.js on Jeremy Kao</title>
+    <link>https://jeremykao.com/skills/ember.js/</link>
+    <description>Recent content in Ember.js on Jeremy Kao</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 01 Aug 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://jeremykao.com/skills/ember.js/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Various Desktop Feed Features</title>
+      <link>https://jeremykao.com/projects/20180101-li-desktop-features/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://jeremykao.com/projects/20180101-li-desktop-features/</guid>
+      <description>I worked on the Desktop feed for quite a while. Performance, i18n, and accessiblity were always a work-in-progress for a product that receives millions of views a day across the world in 20+ languages/locales.
+Here are some of the interesting projects I worked on:
+New way of rendering feed updates Developer velocity was also a focus for a period of time. Now that we had the feed served across 4 platforms (android, ios, mobile-web, desktop), it was always a huge effort to create a new feed update.</description>
+    </item>
+    
+    <item>
+      <title>New Desktop LinkedIn Feed w/ Ember.js</title>
+      <link>https://jeremykao.com/projects/20160801-li-desktop/</link>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://jeremykao.com/projects/20160801-li-desktop/</guid>
+      <description>After the launch of the native/mobile web applications, we had to build the desktop experience on Ember.js. Prior to this, every LinkedIn product was its own separate project. Some were server-side rendered, some used Backbone-Marionette, some used a custom built JS framework. Now, all LinkedIn consumer products were to be within the same Ember.js application, served as a single page app.
+Since we had a mobile-web application, the strategy was to &amp;ldquo;extend&amp;rdquo; this for the desktop application.</description>
+    </item>
+    
+    <item>
+      <title>LinkedIn Messaging Prototype</title>
+      <link>https://jeremykao.com/projects/20140701-li-msg/</link>
+      <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://jeremykao.com/projects/20140701-li-msg/</guid>
+      <description>Prior to 2015, LinkedIn had an email-like messaging system, where each message received was its own distinct item in the inbox.
+There was a new initiative to change this to be threaded, more like a chat system. As part of my intern project, I worked on writing a new web application that would support this. This was also one of the first experiments of Ember.js at LinkedIn.
+This project was initially written in Backbone.</description>
+    </item>
+    
+  </channel>
+</rss>

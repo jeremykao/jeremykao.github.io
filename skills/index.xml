@@ -6,26 +6,125 @@
     <description>Recent content in Skills on Jeremy Kao</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 31 Dec 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://jeremykao.com/skills/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>elixir</title>
-      <link>https://jeremykao.com/skills/elixir/</link>
-      <pubDate>Mon, 31 Dec 2018 00:00:00 +0000</pubDate>
+      <title>Django</title>
+      <link>https://jeremykao.com/skills/django/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://jeremykao.com/skills/elixir/</guid>
+      <guid>https://jeremykao.com/skills/django/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>javascript</title>
+      <title>Javascript</title>
       <link>https://jeremykao.com/skills/javascript/</link>
-      <pubDate>Sun, 30 Sep 2018 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
       <guid>https://jeremykao.com/skills/javascript/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>https://jeremykao.com/skills/python/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://jeremykao.com/skills/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>React</title>
+      <link>https://jeremykao.com/skills/react/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://jeremykao.com/skills/react/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sass</title>
+      <link>https://jeremykao.com/skills/sass/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://jeremykao.com/skills/sass/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ember.js</title>
+      <link>https://jeremykao.com/skills/ember.js/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://jeremykao.com/skills/ember.js/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Web Performance</title>
+      <link>https://jeremykao.com/skills/web-performance/</link>
+      <pubDate>Wed, 01 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://jeremykao.com/skills/web-performance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DevOps</title>
+      <link>https://jeremykao.com/skills/devops/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://jeremykao.com/skills/devops/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Java</title>
+      <link>https://jeremykao.com/skills/java/</link>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://jeremykao.com/skills/java/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Play</title>
+      <link>https://jeremykao.com/skills/play/</link>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://jeremykao.com/skills/play/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ember</title>
+      <link>https://jeremykao.com/skills/ember/</link>
+      <pubDate>Sun, 01 May 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://jeremykao.com/skills/ember/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scala</title>
+      <link>https://jeremykao.com/skills/scala/</link>
+      <pubDate>Sat, 01 Aug 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://jeremykao.com/skills/scala/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Angular.js</title>
+      <link>https://jeremykao.com/skills/angular.js/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://jeremykao.com/skills/angular.js/</guid>
       <description></description>
     </item>
     
