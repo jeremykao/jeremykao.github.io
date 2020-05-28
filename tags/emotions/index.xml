@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Jeremy Kao</title>
-    <link>https://jeremykao.com/posts/</link>
-    <description>Recent content in Posts on Jeremy Kao</description>
+    <title>emotions on Jeremy Kao</title>
+    <link>https://jeremykao.com/tags/emotions/</link>
+    <description>Recent content in emotions on Jeremy Kao</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Wed, 27 May 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://jeremykao.com/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jeremykao.com/tags/emotions/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -19,17 +19,6 @@
       <guid>https://jeremykao.com/posts/todays-special-is-excitement-disappointment-relief-gratitude/</guid>
       <description>I feel like COVID-19 has made me a bit more introspective. Perhaps it&#39;s because I&#39;m mostly alone with my thoughts for most of the day. Perhaps it&#39;s because everyone is adjusting to this global pandemic, and this is just my reaction to a new way of life. Whatever the reason, I&#39;ve decided to acknowledge it and see if I could express my feelings and thoughts better.
 Today was an interesting day for me emotionally.</description>
-    </item>
-    
-    <item>
-      <title>Hello World!</title>
-      <link>https://jeremykao.com/posts/hello-world/</link>
-      <pubDate>Mon, 25 May 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://jeremykao.com/posts/hello-world/</guid>
-      <description>Hello!
-Thanks for stumbling upon my blog. The last time I blogged was probably a solid 5 years ago, so it&#39;s definitely been a while. The content was insignificant back then, so you can probably expect the same. Jkjk&amp;hellip; I hope not.
-The inspiration for me to suddenly start blogging again is that I&#39;ve been keeping a trello around where I write my thoughts/learnings about some cool articles I stumble upon and want to save for later.</description>
     </item>
     
   </channel>

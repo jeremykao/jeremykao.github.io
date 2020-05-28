@@ -3,17 +3,37 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://jeremykao.com/posts/hello-world/</loc>
-    <lastmod>2020-05-25T00:00:00+00:00</lastmod>
+    <loc>https://jeremykao.com/tags/emotions/</loc>
+    <lastmod>2020-05-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jeremykao.com/tags/gratitude/</loc>
+    <lastmod>2020-05-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://jeremykao.com/</loc>
-    <lastmod>2020-05-25T00:00:00+00:00</lastmod>
+    <lastmod>2020-05-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://jeremykao.com/posts/</loc>
+    <lastmod>2020-05-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jeremykao.com/tags/</loc>
+    <lastmod>2020-05-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jeremykao.com/posts/todays-special-is-excitement-disappointment-relief-gratitude/</loc>
+    <lastmod>2020-05-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jeremykao.com/posts/hello-world/</loc>
     <lastmod>2020-05-25T00:00:00+00:00</lastmod>
   </url>
   
@@ -153,10 +173,6 @@
   
   <url>
     <loc>https://jeremykao.com/series/</loc>
-  </url>
-  
-  <url>
-    <loc>https://jeremykao.com/tags/</loc>
   </url>
   
 </urlset>
